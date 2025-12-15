@@ -1,6 +1,6 @@
 # Olá, eu sou o João Pedro! 👋
 
-Sou recém-graduado no **Técnico em Informática pelo IFRO - Campus Cacoal. Sou apaixonado por transformar problemas reais em soluções através do código, com foco em desenvolvimento web e banco de dados.
+Sou recém-graduado no **Técnico em Informática pelo IFRO - Campus Cacoal**. Sou apaixonado por transformar problemas reais em soluções através do código, com foco em desenvolvimento web e banco de dados.
 
 ---
 
